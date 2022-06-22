@@ -2,6 +2,7 @@
 (What are you adding or fixing?)
 
 ## Issue ticket number and link
+(Jira ticket and link to work item)
 
 ## Type of change
 - [ ] Feature enhancement
